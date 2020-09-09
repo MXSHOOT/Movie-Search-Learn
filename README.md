@@ -1,11 +1,11 @@
 # Movie-Search-Learn
 
-## Installation
+## Open Movie Search
 1. Install npm
 ```
 npm install
 ```
-3. Then
+2. Run
 ```
 //Development Mode With Hot Reload
 npm run start
